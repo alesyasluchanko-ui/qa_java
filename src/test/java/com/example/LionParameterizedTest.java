@@ -40,3 +40,4 @@ public class LionParameterizedTest {
         assertEquals(expectedHasMane, lion.doesHaveMane());
     }
 }
+

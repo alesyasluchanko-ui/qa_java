@@ -45,3 +45,4 @@ public class FelineTest {
         assertThrows(Exception.class, () -> feline.getFood("Всеядное"));
     }
 }
+

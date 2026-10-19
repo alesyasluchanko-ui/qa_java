@@ -34,3 +34,4 @@ public class LionTest {
         new Lion(feline, "Неизвестно");
     }
 }
+
